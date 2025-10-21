@@ -24,3 +24,10 @@ Scripts de todo tipo:
 Instalación rápida:
 ```bash
 pip install -r requirements.txt
+```
+--- 
+## Detalle 
+| Nombre | Funcionalidad |
+|---	 |---        | 
+| pinchewey.py | script para generar traducciones a ESM a partir de las de ESP. | 
+| dorneado.py | script para ordenar archivos al en subcarpetas por tipo. | 
