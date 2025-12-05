@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Ruta a la carpeta que contiene los archivos .al
-carpeta = r"A:\Temp\20251021-SummitParaguay\SAPY_AL"  # <-- cámbiala por la tuya
+carpeta = r"A:\Temp\20251202-WeFIV\WeFIV-AL"  # <-- cámbiala por la tuya
 
 for archivo in os.listdir(carpeta):
     if archivo.endswith(".al") and "." in archivo:

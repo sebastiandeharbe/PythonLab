@@ -2,7 +2,7 @@ import os
 import re
 
 # Carpeta base donde están los archivos
-BASE_DIR = r"A:\I+D\Desarrollo\Repositorios_Producto\FE-ArgentinaExterior-AppSource"  # <-- cambiar la ruta acá
+BASE_DIR = r"A:\I+D\Desarrollo\Clientes\WeFIV\WeFIV-Personalizaciones"  # <-- cambiar la ruta acá
 
 # Regex para detectar ESP y ver si ESM ya existe
 comment_pattern = re.compile(r"(Comment\s*=\s*'[^']*ESP=\"([^\"]+)\"[^']*')")
