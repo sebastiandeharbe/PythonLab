@@ -111,7 +111,7 @@ def update_excel(entries, excel_path: Path):
 
     wb.save(excel_path)
     print(
-        f"¡Listo! Se agregaron {len(new_entries)} versiones con formato de bordes en '{excel_path.name}'."
+        f"¡Listo! Se agregaron {len(new_entries)} versiones en '{excel_path.name}'."
     )
 
 
